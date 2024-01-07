@@ -1,0 +1,33 @@
+.container {
+  padding: 50px;
+}
+
+.ProductDetailsContainer {
+  display: flex;
+}
+
+.productImage {
+  height: 250px;
+  margin-right: 70px;
+}
+
+.quantityContainer {
+  display: flex;
+  align-items: center;
+}
+
+.quantity {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.addToCart {
+  background-color: blue;
+  border: 0px;
+  padding: 10px;
+  width: 150px;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,38 @@
+.checkoutContainer {
+  padding: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  width: 300px;
+}
+
+.successView {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: green;
+}
+
+.required {
+  color: red;
+  margin: 0px;
+}
+
+.checkOut {
+  border: 0px;
+  padding: 10px;
+  width: 150px;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: green;
+  margin-top: 20px;
+}

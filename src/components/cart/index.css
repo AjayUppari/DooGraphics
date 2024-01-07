@@ -1,0 +1,12 @@
+.cartItem {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cartProductImage {
+  height: 50px;
+}
+
+.emptyCartHeading {
+  text-align: center;
+}
